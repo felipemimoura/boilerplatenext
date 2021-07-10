@@ -16,88 +16,48 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [ESlint](https://eslint.org/) - Usando para padronização de código
 * [Prettier](https://prettier.io/) - Usando para padronização de código
 * [huskey](https://typicode.github.io/husky/#/) - Usando para padronização de código
+* [jest](https://jestjs.io/pt-BR/) - Usado para testes
+* [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/) - Usado para testes
+* [styled-components](https://styled-components.com/) - Usado para estilos
 
 
+### 🔧 Utilizando
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Para utitlizar esse template você pode clona-lo diretamentente para o seu computador atráves de um git clone
 
 ```
-Dar exemplos
+git clone https://github.com/felipemimoura/boilerplatenext.git
 ```
 
-E repita:
+Aguardar a finalização, acessar a pasta e rodar e instalar as dependecias com yarn
 
 ```
-Até finalizar
+cd boilerplatenext
+yarn
 ```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+Ou você pode utilizar esse template diretamente através do [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+```
+yarn create-next-app -e https://github.com/felipemimoura/boilerplatenext
+```
+Será solicitado no terminal o nome do projeto e após o download tudo estará pronto para ser utilizado.
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+Os teste devem estar em arquivo chamado test.tsx. Conforme a documentação do [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/).
 
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
+Com o teste pronto devemos rodar o seguinte comando
 
 ```
-Dar exemplos
+yarn teste:watch
 ```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Desenvolvimento
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
 
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺
-* Obrigado publicamente 🤓.
-* etc.
-
+* **Felipe Moura** - *Trabalho Inicial* - [Felipe Moura](https://github.com/felipemimoura)
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+
