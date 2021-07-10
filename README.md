@@ -1,34 +1,103 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Boilerplate NEXTJS
 
-## Getting Started
+Esse repositório foi criado com [Next.js](https://nextjs.org/) utilizando [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) junto com typescript
 
-First, run the development server:
+## 🚀 Começando
 
-```bash
-npm run dev
-# or
-yarn dev
+Esse bolilerplate faz parte do conteúdo do curso [Aprenda NextJS, GraphQL e Leafleat na prática](https://www.udemy.com/course/aprenda-nextjs-na-pratica/?src=sac&kw=Aprenda+NEXT). Ministado pelo [Willian Justen](https://www.linkedin.com/in/willianjusten/). E a partir desse bolilerplate vamos iniciar o projeto [Mytrips](https://github.com/felipemimoura/mytrips)
+
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [NextJS](https://nextjs.org/) - O framework web usado
+* [Yarn](https://yarnpkg.com/) - Gerente de Dependência
+* [Typescript](https://www.typescriptlang.org/) - Usando para tipagem
+* [ESlint](https://eslint.org/) - Usando para padronização de código
+* [Prettier](https://prettier.io/) - Usando para padronização de código
+* [huskey](https://typicode.github.io/husky/#/) - Usando para padronização de código
+
+
+
+### 📋 Pré-requisitos
+
+De que coisas você precisa para instalar o software e como instalá-lo?
+
+```
+Dar exemplos
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🔧 Instalação
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Diga como essa etapa será:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+Dar exemplos
+```
 
-## Learn More
+E repita:
 
-To learn more about Next.js, take a look at the following resources:
+```
+Até finalizar
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ⚙️ Executando os testes
 
-## Deploy on Vercel
+Explicar como executar os testes automatizados para este sistema.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🔩 Analise os testes de ponta a ponta
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Explique que eles verificam esses testes e porquê.
+
+```
+Dar exemplos
+```
+
+### ⌨️ E testes de estilo de codificação
+
+Explique que eles verificam esses testes e porquê.
+
+```
+Dar exemplos
+```
+
+## 📦 Desenvolvimento
+
+Adicione notas adicionais sobre como implantar isso em um sistema ativo
+
+
+## 🖇️ Colaborando
+
+Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+
+## 📌 Versão
+
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
+
+## ✒️ Autores
+
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+
+Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢
+* Convide alguém da equipe para uma cerveja 🍺
+* Obrigado publicamente 🤓.
+* etc.
+
+
+---
+⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
